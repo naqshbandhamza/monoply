@@ -1,0 +1,49 @@
+10
+Iqbal group,private
+3
+2)Iqbal Town A,500,60
+3)Iqbal Town B,500,70
+4)Iqbal Town C,500,100
+Johar group,private
+3
+6)Johar Town A,500,80
+7)Johar Town B,550,90
+8)Johar Town C,500,100
+Faisal group,private
+3
+11)Faisal Town A,500,100
+12)Faisal Town B,500,130
+13)Faisal Town C,500,130
+Model group,private
+3
+15)Model Town A,800,200
+16)Model Town B,850,250
+17)Model Town C,2000,500
+Gulberg group,private
+3
+18)Gulberg A,1000,300
+19)Gulberg B,1200,350
+20)Gulberg C,2500,600
+DHA group,private
+3
+22)DHA A,2000,500
+23)DHA B,2000,2000
+24)DHA C,2500,1000
+Bahria Group,private
+3
+26)Bahria Town A,2500,800
+27)Bahria Town B,3000,2000
+28)Bahria Town C,3000,1000
+Station group,public
+3
+30)Metro,2000,200
+31)Bus station,2000,200
+32)Railway station,2500,350
+Utility A,public
+2
+35)SUI,2500,350
+36)WASA,4000,400
+Utility B,public
+2
+37)LESCO,8000,500
+38)PTCL,5000,450
